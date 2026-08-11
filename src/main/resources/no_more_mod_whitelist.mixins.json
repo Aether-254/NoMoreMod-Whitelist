@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "awa.Aether_254.no_more_mod_whitelist.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "NetMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

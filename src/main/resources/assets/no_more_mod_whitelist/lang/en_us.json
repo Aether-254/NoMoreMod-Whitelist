@@ -1,0 +1,8 @@
+{
+  "no_more_mod_whitelist.title": "NoMoreMod-Whitelist",
+  "no_more_mod_whitelist.category.reported_mods": "Reported mod information",
+  "no_more_mod_whitelist.added_mods": "Additional mod IDs",
+  "no_more_mod_whitelist.removed_mods": "Removed mod IDs",
+  "no_more_mod_whitelist.added_mods.tooltip": "IDs added to the currently loaded mod list before it is reported.",
+  "no_more_mod_whitelist.removed_mods.tooltip": "IDs removed from the reported list. Removal takes priority over addition."
+}

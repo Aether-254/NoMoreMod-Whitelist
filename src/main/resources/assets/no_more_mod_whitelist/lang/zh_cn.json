@@ -1,0 +1,8 @@
+{
+  "no_more_mod_whitelist.title": "NoMoreMod-Whitelist",
+  "no_more_mod_whitelist.category.reported_mods": "上报的模组信息",
+  "no_more_mod_whitelist.added_mods": "额外添加的模组 ID",
+  "no_more_mod_whitelist.removed_mods": "需要删除的模组 ID",
+  "no_more_mod_whitelist.added_mods.tooltip": "在上报前添加到当前已加载模组列表中的 ID。",
+  "no_more_mod_whitelist.removed_mods.tooltip": "从上报列表删除的 ID；删除优先于添加。"
+}
